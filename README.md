@@ -4,7 +4,7 @@
 Nabib Ahmed
 
 ## Project Author:
-Chin Howe Tsai
+Chin Howe Tsai, Daniel Ardilla
 
 ## Description
 This is an engineering project under Harvard Extension School for the course DGMD S-14 Wearable Devices and Computer Vision. In this project, we have created a virtual reality experience using Unity. It simulates the interior of an air traffic control tower. Users can roam freely within the control tower and view the artificial airfield made using a skybox. In the market currently, most ATC simulators require a physical location and is primarily focused on letting ATC trainees rehearse their radio telephony through the simulated tower frequencies. The purpose of this project is to allow air traffic control trainees to become familiar with the control tower environment without being physically present at an ATC simulator and allow them to be familiar with the objects within the tower.
