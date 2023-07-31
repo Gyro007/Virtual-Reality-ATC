@@ -14,7 +14,7 @@ This project is created for the following Unity version: 2021.2.8f1
 You will need an IDE such as Visual Studio Community and other usual Unity dependencies: https://unity.com/download
 
 ### Key Information
-- The C# scripts can be found in: "/Assets/MyScripts/"
+- The C# scripts can be found in: "/Assets/MyScripts/" and "/Assets/Scripts/"
 - The tower scene can be found in: "/Assets/Scenes/"
 - After downloading unity just put all the files in this repository into your project folder and you should be able to run it
 
