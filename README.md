@@ -19,4 +19,4 @@ You will need an IDE such as Visual Studio Community and other usual Unity depen
 - After downloading unity just put all the files in this repository into your project folder and you should be able to run it
 
 ## Demo
-[Link to be inserted]
+https://drive.google.com/file/d/1VWjzrufGHJBCPjM58ybNZqYm_NyNThYu/view?usp=drive_link
